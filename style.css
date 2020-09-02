@@ -1,0 +1,44 @@
+body {
+    font-family: 'PT Sans', sans-serif;
+    background-color: #F1F4FB;
+}
+
+/* Стили текста */
+p {
+    text-align: center;
+}
+
+/* Светлый текст */
+.light {
+    color:  #F1F4FB;
+}
+
+/* Тёмный текст */
+.dark {
+    color: #3A5985;
+}
+
+/* Заголовок сайта */
+.size-72 {
+    font-size: 72px;
+}
+
+/* Заголовки форм */
+.size-48 {
+    font-size: 48px;
+}
+
+/* Текст кнопок */
+.size-32 {
+    font-size: 32px;
+}
+
+/* Текст "или" и "уже есть аккаунт?" */
+.size-24 {
+    font-size: 24px;
+}
+
+/* Прочий текст форм */
+.size-21 {
+    font-size: 21px;
+}
